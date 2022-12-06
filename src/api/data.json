@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "title": "Cardigan",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit In odit exercitationem fuga id nam quia",
+        "image": "https://randommer.io/images/clothes/Cardigan.webp",
+        "price": "179"
+    },
+    {
+        "id": "2",
+        "title": "Cargo Shorts",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit In odit exercitationem fuga id nam quia",
+        "image": "https://randommer.io/images/clothes/Cargo%20Shorts.webp",
+        "price": "149"
+    },
+    {
+        "id": "3",
+        "title": "Hoodies",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit In odit exercitationem fuga id nam quia",
+        "image": "https://randommer.io/images/clothes/Hoodies.webp",
+        "price": "199"
+    },
+    {
+        "id": "4",
+        "title": "Hoody",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit In odit exercitationem fuga id nam quia",
+        "image": "https://randommer.io/images/clothes/Hoody.webp",
+        "price": "219"
+    },
+    {
+        "id": "5",
+        "title": "Blazer",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit In odit exercitationem fuga id nam quia",
+        "image": "https://randommer.io/images/clothes/Blazer.webp",
+        "price": "159"
+    },
+    {
+        "id": "6",
+        "title": "Pinafore",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit In odit exercitationem fuga id nam quia",
+        "image": "https://randommer.io/images/clothes/Pinafore.webp",
+        "price": "329"
+    },
+    {
+        "id": "7",
+        "title": "Ski Suit",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit In odit exercitationem fuga id nam quia",
+        "image": "https://randommer.io/images/clothes/Ski%20Suit.webp",
+        "price": "279"
+    },
+    {
+        "id": "8",
+        "title": "Trench Coat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit In odit exercitationem fuga id nam quia",
+        "image": "https://randommer.io/images/clothes/Trench%20Coat.webp",
+        "price": "459"
+    }
+]
