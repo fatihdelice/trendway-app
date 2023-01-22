@@ -1,5 +1,7 @@
 [PATİKA PROFILE URL](https://app.patika.dev/fatihdelice)
 
+> **_NOTE:_** Bu proje Patika.dev için kodlanmıştır. 
+
 # E-commerce (Clothes)
 
 Günümüz koşulları sebebiyle bildiğiniz üzere internet alışverişi fazlasıyla yaygınlaştı. Sizden beklediğimiz kıyafet alışverişi yapabileceğimiz bir e-ticaret projesi yazmanız.
