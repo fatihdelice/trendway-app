@@ -1,6 +1,6 @@
 [PATİKA PROFILE URL](https://app.patika.dev/fatihdelice)
 
-> **_NOTE:_** Bu proje Patika.dev için kodlanmıştır. 
+> **_NOTE:_** Bu proje Patika.dev'in Fronend Developer Patikası için kodlanmıştır. 
 
 # E-commerce (Clothes)
 
